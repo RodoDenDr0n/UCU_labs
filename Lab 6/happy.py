@@ -45,3 +45,5 @@ def happy_numbers(first_ticket: int, last_ticket: int) -> list:
             happy_numbers_lst.append(first_ticket)
         first_ticket += 1
     return happy_numbers_lst
+
+print("PUB")
